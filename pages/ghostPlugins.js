@@ -32,9 +32,10 @@ export default function GhostPlugins() {
               </div>
             </div>
             <div>
-              <p>Signed in with {'famousman0412@gmail.com'}</p>
+              <p>Signed in with {'admin@gmail.com'}</p>
               <p>Not you? <a>Sign out</a></p>
             </div>
+            <div>{'admin@gmail.com'}</div>
             <div className="mt-[22px]">
               <button className="w-full p-[11px] text-center rounded-sm bg-white text-black">Countinue</button>
             </div>
