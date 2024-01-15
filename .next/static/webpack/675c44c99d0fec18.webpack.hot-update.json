@@ -1,0 +1,7 @@
+{
+  "c": ["webpack"],
+  "r": ["pages/ghostPlugins"],
+  "m": [
+    "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2FghostPlugins&absolutePagePath=D%3A%5CWork%5CNext%20Project%5Cblog-site%5Cpages%5CghostPlugins.js!"
+  ]
+}

@@ -105,6 +105,7 @@ export default function GhostMembership() {
             ) : (
               <HamburgerMenuIcon className="h-4 w-4" />
             )}
+            Gu
           </motion.button>
         </Menu.Button>
       </div>
@@ -273,7 +274,7 @@ export default function GhostMembership() {
                 <Link href="/ghostPlugins">
                   <a
                     onClick={() => setStripeModalOpen(false)}
-                    className="inline-block h-auto w-full cursor-pointer rounded-[10px] border border-black py-[10px] px-[5px] text-black"
+                    className="inline-block h-auto w-full cursor-pointer rounded-[10px] border border-black py-[10px] px-[5px] text-center text-black"
                   >
                     $10 Per Month-Join Now
                   </a>
