@@ -227,9 +227,4 @@ Don't forget to give the project a star! Thanks again!
 <a href="https://makeapullrequest.com" target="blank" >![PRs Welcome](https://img.shields.io/badge/PR-Welcome-brightgreen?style=for-the-badge)</a>
 
 </div>
-this was updated
-this was updated
-this was updated
-this was updated
-this was updated
-this was updated
+
